@@ -10,6 +10,7 @@
   "author": "Meta",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/css": "^1.14.0",
     "@parcel/transformer-sass": "^2.7.0"
   },
   "dependencies": {
