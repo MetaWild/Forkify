@@ -69,5 +69,14 @@
     "utility-types": "^3.10.0",
     "weak-lru-cache": "^1.2.2",
     "xxhash-wasm": "^0.4.2"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaWild/Forkify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MetaWild/Forkify/issues"
+  },
+  "homepage": "https://github.com/MetaWild/Forkify#readme"
 }
